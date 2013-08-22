@@ -1,0 +1,3 @@
+#!/bin/sh
+
+Esetroot `ls ~/Pictures/wallpaper/active/* | sort -R | head -n 1`
